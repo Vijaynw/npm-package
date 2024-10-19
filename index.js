@@ -1,4 +1,5 @@
-function isValid() {
-  return true;
+function helloNpm() {
+  return "hello NPM";
 }
-module.export = isValid;
+
+module.exports = helloNpm;
